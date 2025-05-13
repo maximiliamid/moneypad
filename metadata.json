@@ -1,0 +1,52 @@
+{
+    "name": "MoneyPad",
+    "symbol": "MPD",
+    "description": "MoneyPad - The Future of Digital Payments",
+    "image": "https://raw.githubusercontent.com/maximiliamid/moneypad/refs/heads/main/token-logo.svg",
+    "external_url": "https://moneypad.io",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Payment Token"
+        },
+        {
+            "trait_type": "Network",
+            "value": "Solana"
+        },
+        {
+            "trait_type": "Total Supply",
+            "value": "1,000,000,000"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/maximiliamid/moneypad/refs/heads/main/token-logo.svg",
+                "type": "image/svg+xml"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "9B2Mvgzvf9w59MoTzbQ5psNJsHSouYBSRho5RdsTHU7S",
+                "share": 100
+            }
+        ]
+    },
+    "social_media": {
+        "twitter": "https://twitter.com/moneypad",
+        "telegram": "https://t.me/moneypad",
+        "discord": "https://discord.gg/moneypad"
+    },
+    "tokenomics": {
+        "total_supply": 1000000000,
+        "decimals": 9,
+        "initial_price": "0.0001 SOL"
+    },
+    "features": [
+        "Fast Transactions",
+        "Low Fees",
+        "Secure Payments",
+        "Cross-chain Compatibility"
+    ]
+} 

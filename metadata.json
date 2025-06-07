@@ -2,7 +2,7 @@
   "name": "Impact Fund",
   "symbol": "IMF",
   "description": "Ready to make an impact? Impact Fund (IMF) is not just another token—it's your ticket to a world of fun, learning, and opportunity on Solana! We empower holders and fresh projects through exciting educational airdrops. Whether you’re a crypto rookie or a seasoned degenerate, IMF gives you more than just rewards: you’ll discover, you’ll learn, you’ll grow. Join the Impact revolution—where every drop counts, and every holder has a story!",
-  "image": "https://raw.githubusercontent.com/maximiliamid/moneypad/main/logo.png",
+  "image": "https://github.com/maximiliamid/moneypad/blob/4c744a10dc413d4b21cf2281539857fe4b17a530/image.png",
   "attributes": [
     { "trait_type": "Tipe", "value": "SPL Fungible Token" },
     { "trait_type": "Edukasi", "value": "Airdrop" }

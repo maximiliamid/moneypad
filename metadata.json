@@ -1,16 +1,11 @@
 {
-  "name": "PathFinder",
-  "symbol": "PATH",
-  "description": "PathFinder is a revolutionary investment token that empowers users to navigate the complex world of digital assets. It provides a clear path to financial growth through innovative investment strategies and community-driven decision making.",
-  "image": "https://gateway.lighthouse.storage/ipfs/bafybeif2eagvj5qewnc5tau7uf4f5ftwzfgdojsf3loxdbfvewwkiujhlq",
-  "seller_fee_basis_points": 0,
-  "attributes": [],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://gateway.lighthouse.storage/ipfs/bafybeif2eagvj5qewnc5tau7uf4f5ftwzfgdojsf3loxdbfvewwkiujhlq",
-        "type": "image/png"
-      }
-    ]
-  }
+  "name": "Impact Fund",
+  "symbol": "IMF",
+  "description": "Ready to make an impact? Impact Fund (IMF) is not just another token—it's your ticket to a world of fun, learning, and opportunity on Solana! We empower holders and fresh projects through exciting educational airdrops. Whether you’re a crypto rookie or a seasoned degenerate, IMF gives you more than just rewards: you’ll discover, you’ll learn, you’ll grow. Join the Impact revolution—where every drop counts, and every holder has a story!",
+  "image": "https://raw.githubusercontent.com/maximiliamid/moneypad/main/logo.png",
+  "attributes": [
+    { "trait_type": "Tipe", "value": "SPL Fungible Token" },
+    { "trait_type": "Edukasi", "value": "Airdrop" }
+  ],
+  "external_url": "https://impact-fun.io"
 }
